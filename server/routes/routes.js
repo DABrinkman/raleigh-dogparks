@@ -7,9 +7,9 @@ const CLOUDINARY_SECRET1 = '7bChKulxDSPFbLgqSxIsSv3GcewNew';
 const router = express.Router();
 
 cloudinary.config({ 
-  cloud_name: CLOUDINARY_NAME1, 
-  api_key: CLOUDINARY_KEY1, 
-  api_secret: CLOUDINARY_SECRET1 
+  cloud_name: dabrinks, 
+  api_key: 632272577921713, 
+  api_secret: FewoMyEVADf6Ob6M66FFZzKzhk4 
   //cloud_name: process.env.CLOUDINARY_NAME, 
   //api_key: process.env.CLOUDINARY_KEY, 
   //api_secret: process.env.CLOUDINARY_SECRET
